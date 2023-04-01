@@ -2,8 +2,9 @@
 AI State Machine for enemy monster moving with procedural animation.
 Both functionalities were built with C#.
 
-1. Open with Unity.
+1. Open the AI_&_Procedural_Animation folder with Unity.
 2. In the "Scenes" folder open the "Maze" scene.
+3. Start the application.
 
 The state machine changes state each time the right conditions are met.
 
