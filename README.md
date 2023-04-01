@@ -17,3 +17,6 @@ If the player gets even closer, the attack state is on and the enemy starts atta
 The console indicates the state that the AI is on by printing messages.
 
 The monster moves its limbs using procedural animation.
+
+![Screenshot_37](https://user-images.githubusercontent.com/129271569/229306651-1e28cad5-23ef-4585-9d1f-fa3a72ba14c4.png)
+
