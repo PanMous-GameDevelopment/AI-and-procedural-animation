@@ -1,5 +1,6 @@
 # AI-and-procedural-animation
 AI State Machine for enemy monster moving with procedural animation.
+
 Both functionalities were built with C#.
 
 1. Open the AI_&_Procedural_Animation folder with Unity.
